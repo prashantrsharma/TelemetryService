@@ -1,5 +1,4 @@
-#Azure Monitoring and Telemetry
-#C# TelemetryService
+# Azure Monitoring and Telemetry  , C# TelemetryService
 
 A dependency is an external component that is called by your app. Use TelemetryService to log details about the dependencies.
 
